@@ -15,6 +15,7 @@ a {
 p {
     font-size: 16px;
 }
+/* header section start here */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -47,8 +48,8 @@ p {
     display: inline-block;
     margin-left: 25px;
 }
-
-
+/* header section ends here */
+/* banner section start here */
 
 .hero {
     height: 800px;
@@ -58,7 +59,8 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* /Banner section ends here */
+/* Third Section start here */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -187,7 +189,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Third section ends here */
+/* footer section start here */
 footer {
     padding: 30px;
     clear: both;
@@ -195,6 +198,7 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
+/* footer section ends here */
