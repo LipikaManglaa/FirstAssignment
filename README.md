@@ -11,4 +11,4 @@
 6. I used the 'title' tag inside image tag
 
 
-![This is screenshot](./images/Screenshot%20(103).png)
+![This is screenshot](images/Screenshot%20(103).png)
